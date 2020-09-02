@@ -1,0 +1,1 @@
+java -Xmx1024 -Xms1024M -jar Waterdog.jar
