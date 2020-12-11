@@ -1,1 +1,1 @@
-java -Xmx1024 -Xms1024M -jar Waterdog.jar
+java -Xmx1024M -Xms1024M -jar Spigot.jar
